@@ -1,2 +1,2 @@
-### Hi, I'm working on Xamarian
+### Hi, at work I create automated API tests. Here I'm learning Xamarian and making websites with .NET.
 
