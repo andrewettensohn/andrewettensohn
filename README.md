@@ -1,2 +1,2 @@
-### I enjoy .NET Core.
+### I enjoy .NET.
 
