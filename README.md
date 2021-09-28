@@ -1,2 +1,2 @@
-### I enjoy .NET. GitHub is where I do my personal projects for fun.
+### I enjoy .NET. and JavaScript. GitHub is where I do my personal projects for fun.
 
