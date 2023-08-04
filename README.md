@@ -1,2 +1,2 @@
-### I enjoy .NET. and JavaScript. GitHub is where I do my personal projects for fun.
+### Software Engineer and wannabe game dev. I help people build games at ProbablyMonsters.
 
