@@ -1,2 +1,2 @@
-### Software Engineer and wannabe game dev.
+### Software Engineer and game dev.
 
